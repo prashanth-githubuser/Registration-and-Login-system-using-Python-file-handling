@@ -21,4 +21,10 @@ Details of this project is uploaded in pdf format Make use of test cases file fo
 At last I wanted you to try this project by adding extra features like avoiding users to create duplicate User Names, Adding GUI etc..
 
 
+You can check the google document link
+-details https://docs.google.com/document/d/1DGvzU0ajnSMiO23cEOut-zcUWYHCTHphIHrWZeyhjAs/edit?usp=sharing
+-Test cases https://docs.google.com/spreadsheets/d/1dKTK-l_VHC5HU3nlFhSyHXuQK71Y5cmwNEP3oTcC9hQ/edit?usp=sharing
+
+
+
 
